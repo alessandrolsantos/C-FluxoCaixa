@@ -1,0 +1,145 @@
+C:\Users\alessandro.santos\documents\visual studio 2015\Projects\LancTrans\LancTrans\obj\Debug\LancTrans.Forms.frmLancamentos.resources
+C:\Users\alessandro.santos\documents\visual studio 2015\Projects\LancTrans\LancTrans\obj\Debug\LancTrans.frmMenu.resources
+C:\Users\alessandro.santos\documents\visual studio 2015\Projects\LancTrans\LancTrans\obj\Debug\LancTrans.frmContas.resources
+C:\Users\alessandro.santos\documents\visual studio 2015\Projects\LancTrans\LancTrans\obj\Debug\LancTrans.Properties.Resources.resources
+C:\Users\alessandro.santos\documents\visual studio 2015\Projects\LancTrans\LancTrans\obj\Debug\LancTrans.frmSaldoContas.resources
+C:\Users\alessandro.santos\documents\visual studio 2015\Projects\LancTrans\LancTrans\obj\Debug\LancTrans.csproj.GenerateResource.Cache
+C:\Users\alessandro.santos\documents\visual studio 2015\Projects\LancTrans\LancTrans\bin\Debug\LancTrans.exe.config
+C:\Users\alessandro.santos\documents\visual studio 2015\Projects\LancTrans\LancTrans\bin\Debug\LancTrans.exe
+C:\Users\alessandro.santos\documents\visual studio 2015\Projects\LancTrans\LancTrans\bin\Debug\LancTrans.pdb
+C:\Users\alessandro.santos\documents\visual studio 2015\Projects\LancTrans\LancTrans\bin\Debug\EntityFramework.dll
+C:\Users\alessandro.santos\documents\visual studio 2015\Projects\LancTrans\LancTrans\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alessandro.santos\documents\visual studio 2015\Projects\LancTrans\LancTrans\bin\Debug\System.Data.SQLite.dll
+C:\Users\alessandro.santos\documents\visual studio 2015\Projects\LancTrans\LancTrans\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\alessandro.santos\documents\visual studio 2015\Projects\LancTrans\LancTrans\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\alessandro.santos\documents\visual studio 2015\Projects\LancTrans\LancTrans\bin\Debug\EntityFramework.xml
+C:\Users\alessandro.santos\documents\visual studio 2015\Projects\LancTrans\LancTrans\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alessandro.santos\documents\visual studio 2015\Projects\LancTrans\LancTrans\bin\Debug\System.Data.SQLite.xml
+C:\Users\alessandro.santos\documents\visual studio 2015\Projects\LancTrans\LancTrans\obj\Debug\LancTrans.csprojResolveAssemblyReference.cache
+C:\Users\alessandro.santos\documents\visual studio 2015\Projects\LancTrans\LancTrans\obj\Debug\LancTrans.exe
+C:\Users\alessandro.santos\documents\visual studio 2015\Projects\LancTrans\LancTrans\obj\Debug\LancTrans.pdb
+C:\Users\alessandro.santos\documents\visual studio 2015\Projects\LancTrans\LancTrans\bin\Debug\LancTrans.exe.manifest
+C:\Users\alessandro.santos\documents\visual studio 2015\Projects\LancTrans\LancTrans\bin\Debug\LancTrans.application
+C:\Users\alessandro.santos\documents\visual studio 2015\Projects\LancTrans\LancTrans\obj\Debug\LancTrans.exe.manifest
+C:\Users\alessandro.santos\documents\visual studio 2015\Projects\LancTrans\LancTrans\obj\Debug\LancTrans.application
+C:\Users\alessandro.santos\documents\visual studio 2015\Projects\LancTrans\LancTrans\bin\Debug\Z.EntityFramework.Extensions.dll
+C:\Users\alessandro.santos\documents\visual studio 2015\Projects\LancTrans\LancTrans\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\alessandro.santos\documents\visual studio 2015\Projects\LancTrans\LancTrans\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Projetos\LancTrans\LancTrans\bin\Debug\LancTrans.exe.config
+C:\Projetos\LancTrans\LancTrans\bin\Debug\LancTrans.exe.manifest
+C:\Projetos\LancTrans\LancTrans\bin\Debug\LancTrans.application
+C:\Projetos\LancTrans\LancTrans\bin\Debug\LancTrans.exe
+C:\Projetos\LancTrans\LancTrans\bin\Debug\LancTrans.pdb
+C:\Projetos\LancTrans\LancTrans\bin\Debug\EntityFramework.dll
+C:\Projetos\LancTrans\LancTrans\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projetos\LancTrans\LancTrans\bin\Debug\System.Data.SQLite.dll
+C:\Projetos\LancTrans\LancTrans\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Projetos\LancTrans\LancTrans\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Projetos\LancTrans\LancTrans\bin\Debug\Z.EntityFramework.Extensions.dll
+C:\Projetos\LancTrans\LancTrans\bin\Debug\EntityFramework.xml
+C:\Projetos\LancTrans\LancTrans\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projetos\LancTrans\LancTrans\bin\Debug\System.Data.SQLite.xml
+C:\Projetos\LancTrans\LancTrans\bin\Debug\System.Data.SQLite.dll.config
+C:\Projetos\LancTrans\LancTrans\obj\Debug\LancTrans.csprojResolveAssemblyReference.cache
+C:\Projetos\LancTrans\LancTrans\obj\Debug\LancTrans.Forms.frmLancamentos.resources
+C:\Projetos\LancTrans\LancTrans\obj\Debug\LancTrans.frmMenu.resources
+C:\Projetos\LancTrans\LancTrans\obj\Debug\LancTrans.frmContas.resources
+C:\Projetos\LancTrans\LancTrans\obj\Debug\LancTrans.Properties.Resources.resources
+C:\Projetos\LancTrans\LancTrans\obj\Debug\LancTrans.frmSaldoContas.resources
+C:\Projetos\LancTrans\LancTrans\obj\Debug\LancTrans.csproj.GenerateResource.Cache
+C:\Projetos\LancTrans\LancTrans\obj\Debug\LancTrans.exe.manifest
+C:\Projetos\LancTrans\LancTrans\obj\Debug\LancTrans.application
+C:\Projetos\LancTrans\LancTrans\obj\Debug\LancTrans.exe
+C:\Projetos\LancTrans\LancTrans\obj\Debug\LancTrans.pdb
+F:\Projetos\transfer\Projetos\LancTrans\LancTrans\bin\Debug\LancTrans.exe.config
+F:\Projetos\transfer\Projetos\LancTrans\LancTrans\obj\Debug\LancTrans.exe
+F:\Projetos\transfer\Projetos\LancTrans\LancTrans\obj\Debug\LancTrans.pdb
+F:\Projetos\transfer\Projetos\LancTrans\LancTrans\bin\Debug\LancTrans.exe.manifest
+F:\Projetos\transfer\Projetos\LancTrans\LancTrans\bin\Debug\LancTrans.application
+F:\Projetos\transfer\Projetos\LancTrans\LancTrans\bin\Debug\LancTrans.exe
+F:\Projetos\transfer\Projetos\LancTrans\LancTrans\bin\Debug\LancTrans.pdb
+F:\Projetos\transfer\Projetos\LancTrans\LancTrans\bin\Debug\EntityFramework.dll
+F:\Projetos\transfer\Projetos\LancTrans\LancTrans\bin\Debug\EntityFramework.SqlServer.dll
+F:\Projetos\transfer\Projetos\LancTrans\LancTrans\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\Projetos\transfer\Projetos\LancTrans\LancTrans\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\Projetos\transfer\Projetos\LancTrans\LancTrans\bin\Debug\System.Data.SQLite.dll
+F:\Projetos\transfer\Projetos\LancTrans\LancTrans\bin\Debug\System.Data.SQLite.EF6.dll
+F:\Projetos\transfer\Projetos\LancTrans\LancTrans\bin\Debug\System.Data.SQLite.Linq.dll
+F:\Projetos\transfer\Projetos\LancTrans\LancTrans\bin\Debug\Z.EntityFramework.Extensions.dll
+F:\Projetos\transfer\Projetos\LancTrans\LancTrans\bin\Debug\EntityFramework.xml
+F:\Projetos\transfer\Projetos\LancTrans\LancTrans\bin\Debug\EntityFramework.SqlServer.xml
+F:\Projetos\transfer\Projetos\LancTrans\LancTrans\bin\Debug\System.Data.SQLite.xml
+F:\Projetos\transfer\Projetos\LancTrans\LancTrans\obj\Debug\LancTrans.csprojResolveAssemblyReference.cache
+F:\Projetos\transfer\Projetos\LancTrans\LancTrans\obj\Debug\LancTrans.Forms.frmLancamentos.resources
+F:\Projetos\transfer\Projetos\LancTrans\LancTrans\obj\Debug\LancTrans.frmMenu.resources
+F:\Projetos\transfer\Projetos\LancTrans\LancTrans\obj\Debug\LancTrans.frmContas.resources
+F:\Projetos\transfer\Projetos\LancTrans\LancTrans\obj\Debug\LancTrans.Properties.Resources.resources
+F:\Projetos\transfer\Projetos\LancTrans\LancTrans\obj\Debug\LancTrans.frmSaldoContas.resources
+F:\Projetos\transfer\Projetos\LancTrans\LancTrans\obj\Debug\LancTrans.csproj.GenerateResource.Cache
+F:\Projetos\transfer\Projetos\LancTrans\LancTrans\obj\Debug\LancTrans.exe.manifest
+F:\Projetos\transfer\Projetos\LancTrans\LancTrans\obj\Debug\LancTrans.application
+F:\Projetos\transfer\Projetos\LancTrans\LancTrans\bin\Debug\itextsharp.dll
+F:\Projetos\transfer\Projetos\LancTrans\LancTrans\bin\Debug\itextsharp.xml
+F:\Projetos\transfer\Projetos\LancTrans\LancTrans\obj\Debug\LancTrans.Forms.frmLogin.resources
+F:\Projetos\transfer\Projetos\LancTrans\LancTrans\obj\Debug\LancTrans.Forms.frmUsuarios.resources
+E:\LancTrans\LancTrans\bin\Debug\LancTrans.exe.config
+E:\LancTrans\LancTrans\bin\Debug\LancTrans.exe.manifest
+E:\LancTrans\LancTrans\bin\Debug\LancTrans.application
+E:\LancTrans\LancTrans\bin\Debug\LancTrans.exe
+E:\LancTrans\LancTrans\bin\Debug\LancTrans.pdb
+E:\LancTrans\LancTrans\bin\Debug\EntityFramework.dll
+E:\LancTrans\LancTrans\bin\Debug\EntityFramework.SqlServer.dll
+E:\LancTrans\LancTrans\bin\Debug\itextsharp.dll
+E:\LancTrans\LancTrans\bin\Debug\System.Data.SQLite.dll
+E:\LancTrans\LancTrans\bin\Debug\System.Data.SQLite.EF6.dll
+E:\LancTrans\LancTrans\bin\Debug\System.Data.SQLite.Linq.dll
+E:\LancTrans\LancTrans\bin\Debug\Z.EntityFramework.Extensions.dll
+E:\LancTrans\LancTrans\bin\Debug\EntityFramework.xml
+E:\LancTrans\LancTrans\bin\Debug\EntityFramework.SqlServer.xml
+E:\LancTrans\LancTrans\bin\Debug\itextsharp.xml
+E:\LancTrans\LancTrans\bin\Debug\System.Data.SQLite.xml
+E:\LancTrans\LancTrans\bin\Debug\System.Data.SQLite.dll.config
+E:\LancTrans\LancTrans\obj\Debug\LancTrans.csprojResolveAssemblyReference.cache
+E:\LancTrans\LancTrans\obj\Debug\LancTrans.Forms.frmLancamentos.resources
+E:\LancTrans\LancTrans\obj\Debug\LancTrans.Forms.frmLogin.resources
+E:\LancTrans\LancTrans\obj\Debug\LancTrans.frmMenu.resources
+E:\LancTrans\LancTrans\obj\Debug\LancTrans.frmContas.resources
+E:\LancTrans\LancTrans\obj\Debug\LancTrans.Forms.frmUsuarios.resources
+E:\LancTrans\LancTrans\obj\Debug\LancTrans.Properties.Resources.resources
+E:\LancTrans\LancTrans\obj\Debug\LancTrans.frmSaldoContas.resources
+E:\LancTrans\LancTrans\obj\Debug\LancTrans.csproj.GenerateResource.Cache
+E:\LancTrans\LancTrans\obj\Debug\LancTrans.exe.manifest
+E:\LancTrans\LancTrans\obj\Debug\LancTrans.application
+E:\LancTrans\LancTrans\obj\Debug\LancTrans.exe
+E:\LancTrans\LancTrans\obj\Debug\LancTrans.pdb
+D:\LancTrans\LancTrans\bin\Debug\LancTrans.exe.config
+D:\LancTrans\LancTrans\obj\Debug\LancTrans.exe
+D:\LancTrans\LancTrans\obj\Debug\LancTrans.pdb
+D:\LancTrans\LancTrans\bin\Debug\LancTrans.exe.manifest
+D:\LancTrans\LancTrans\bin\Debug\LancTrans.application
+D:\LancTrans\LancTrans\bin\Debug\LancTrans.exe
+D:\LancTrans\LancTrans\bin\Debug\LancTrans.pdb
+D:\LancTrans\LancTrans\bin\Debug\EntityFramework.dll
+D:\LancTrans\LancTrans\bin\Debug\EntityFramework.SqlServer.dll
+D:\LancTrans\LancTrans\bin\Debug\itextsharp.dll
+D:\LancTrans\LancTrans\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\LancTrans\LancTrans\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\LancTrans\LancTrans\bin\Debug\System.Data.SQLite.dll
+D:\LancTrans\LancTrans\bin\Debug\System.Data.SQLite.EF6.dll
+D:\LancTrans\LancTrans\bin\Debug\System.Data.SQLite.Linq.dll
+D:\LancTrans\LancTrans\bin\Debug\Z.EntityFramework.Extensions.dll
+D:\LancTrans\LancTrans\bin\Debug\EntityFramework.xml
+D:\LancTrans\LancTrans\bin\Debug\EntityFramework.SqlServer.xml
+D:\LancTrans\LancTrans\bin\Debug\itextsharp.xml
+D:\LancTrans\LancTrans\bin\Debug\System.Data.SQLite.xml
+D:\LancTrans\LancTrans\obj\Debug\LancTrans.csprojResolveAssemblyReference.cache
+D:\LancTrans\LancTrans\obj\Debug\LancTrans.Forms.frmLancamentos.resources
+D:\LancTrans\LancTrans\obj\Debug\LancTrans.Forms.frmLogin.resources
+D:\LancTrans\LancTrans\obj\Debug\LancTrans.frmMenu.resources
+D:\LancTrans\LancTrans\obj\Debug\LancTrans.frmContas.resources
+D:\LancTrans\LancTrans\obj\Debug\LancTrans.Forms.frmUsuarios.resources
+D:\LancTrans\LancTrans\obj\Debug\LancTrans.Properties.Resources.resources
+D:\LancTrans\LancTrans\obj\Debug\LancTrans.frmSaldoContas.resources
+D:\LancTrans\LancTrans\obj\Debug\LancTrans.csproj.GenerateResource.Cache
+D:\LancTrans\LancTrans\obj\Debug\LancTrans.exe.manifest
+D:\LancTrans\LancTrans\obj\Debug\LancTrans.application
